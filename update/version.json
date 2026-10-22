@@ -5,6 +5,6 @@
   "channel": "stable",
   "repository": "josegude-ux/GENERADOR-HOJAS-REPARTO",
   "manifestUrl": "https://raw.githubusercontent.com/josegude-ux/GENERADOR-HOJAS-REPARTO/main/update/version.json",
-  "updateMode": "files",
-  "notes": "Aplicacion de escritorio con instalacion unica y actualizacion interna desde GitHub."
+  "packageUrl": "https://raw.githubusercontent.com/josegude-ux/GENERADOR-HOJAS-REPARTO/main/update/package.zip",
+  "notes": "v1.0.1: restaura el actualizador por paquete ZIP."
 }
