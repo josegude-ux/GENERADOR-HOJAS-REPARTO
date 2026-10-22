@@ -1,0 +1,10 @@
+{
+  "packageVersion": "1.0.0",
+  "appVersion": "1.0.0",
+  "engineVersion": "0.71.0",
+  "channel": "stable",
+  "repository": "josegude-ux/GENERADOR-HOJAS-REPARTO",
+  "manifestUrl": "https://raw.githubusercontent.com/josegude-ux/GENERADOR-HOJAS-REPARTO/main/update/version.json",
+  "packageUrl": "https://raw.githubusercontent.com/josegude-ux/GENERADOR-HOJAS-REPARTO/main/update/package.zip",
+  "notes": "Primera version instalada con actualizacion desde GitHub. Motor basado en V71 diagnostica."
+}
